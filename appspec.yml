@@ -1,0 +1,5 @@
+version: 0.0
+os: linux
+files:
+  - source: target/MavenTestWebProject.war
+    destination: /opt/tomcat/apache-tomcat-9.0.56/webapps
